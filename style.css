@@ -1,0 +1,180 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background: #D7D5D5 ;
+	font-size: 1em;
+	font-family: sans-serif;
+}
+
+.body{
+	background: white;
+	font-family: sans-serif;
+	
+}
+
+#principal{
+	background: #F1C40F;
+	text-align: center;
+	padding: 15px;
+}
+
+#principal2{
+	margin: 0px auto;
+	width: 920px;
+	padding: 15px;
+
+}
+
+#principal3{
+	margin: 0px auto;
+	padding: 15px;
+}
+
+
+.logo, .navegacao{
+	padding: 10px;
+}
+
+H1{
+	color: #4e4e4e;
+	font-size: 3em;
+}
+
+h2{
+	color: #F1C40F;
+}
+
+h3{
+	color: black;
+}
+
+span{
+	color: white;
+}
+
+a{
+	text-decoration: none;
+	padding: 8px 8px;
+	color: black;
+}
+
+a:visited{
+	color: black;
+}
+
+a:hover{
+	color: blue;
+}
+
+.postagem{
+	width: 660px;
+	float: left;
+	background: white;
+	padding: 18px;
+	margin-bottom: 18px;
+}
+
+.data-postagem{
+	color: black;
+	font-size: 0.75em;
+}
+
+.img1{
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.ancora{
+	color: rgb(79, 80, 79);
+	font-size: 0.9em;
+}
+
+#menu-lateral{
+	border: 1px solid white;
+	float: right;
+	background: white;
+	width: 240px;
+	height: 140px;	
+	margin-right: 180px;
+	margin-bottom: 20px;
+
+}
+
+.postagem-lateral{
+	padding: 14px;
+	
+	
+}
+
+.h2{
+	padding: 1px;
+	margin-bottom: 2px;
+	background: silver;
+	font-size: 1.02em;	
+}
+
+p{
+	padding: 2px;
+}
+
+.rodape{
+	clear: both;
+	background:  #F1C40F;
+	text-align: center;
+	padding: 15px;
+}
+
+.formulario{
+	width: 940px;
+	margin: 0 auto;
+}
+
+form{
+	margin: 40px 0;
+}
+
+form label{
+	display: block;
+	font-size: 20px;
+	margin: 0 0 10px;
+}
+
+form input{
+	display: block;
+	margin: 0 0 20px;
+	padding: 10px 25px;
+	width: 50%;
+}
+
+form label, form p {
+    display:block;
+    font-size: 20px;
+    margin: 0 0 10px;
+}
+
+.checkbox {
+    margin: 20px 0;
+}
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+ 
